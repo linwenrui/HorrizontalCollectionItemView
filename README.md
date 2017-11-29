@@ -1,0 +1,3 @@
+# HorrizontalCollectionItemView
+横向滑动
+tableview上放置collectionview
